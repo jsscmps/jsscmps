@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hi! <a href="https://www.linkedin.com/in/edududuribeiro/"><i></i></a>👋</h1>
-  <p align="center">Estudo Análise e Desenvolvimento de Sistemas na <a href="https://www.uninter.com/"><i>Uninter</i></a> e atualmente especializando em Front End.
+  <p align="center">Estudo Análise e Desenvolvimento de Sistemas na <a href="https://www.uninter.com/"><i>Uninter</i></a> e atualmente especializando em Back End.
   </a><br>
 </div>
 
