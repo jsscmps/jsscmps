@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hi! <a href="https://www.linkedin.com/in/edududuribeiro/"><i></i></a>👋</h1>
-  <p align="center">Software Developer<a href="https://www.uninter.com/"><i>Uninter</i></a>.
+  <p align="center">Software Developer<a href="https://www.uninter.com/"><i></i></a>.
   </a><br>
 </div>
 
